@@ -54,10 +54,10 @@
 
 }
 
-.gfg {
+.heading {
     padding: 15px;
     color: white;
-    background-color: rgb(6, 162, 6);
+    background-color: rgb(8, 193, 255);
     border-radius: 25px;
 }
 
@@ -78,7 +78,7 @@ form {
     padding: 20px;
     border-radius: 10px;
     gap: 5px;
-    background: linear-gradient(to right, #FFA500, #FF6347);
+    background: linear-gradient(to right, #005eff, #FF6347);
     ;
 }
 
@@ -92,4 +92,5 @@ form {
 label {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: 500;
+    color: white;
 }
